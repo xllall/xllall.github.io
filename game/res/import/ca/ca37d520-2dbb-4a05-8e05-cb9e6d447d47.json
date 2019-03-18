@@ -1,0 +1,245 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "set_board": {
+      "__uuid__": "73z1mTLAFF0I0ikMNifnkZ"
+    },
+    "progress_bg": {
+      "__uuid__": "5cHbNVZapCsISuW62PW98D"
+    },
+    "light_7": {
+      "__uuid__": "5cklbJeW9A2ZE2t5sW2cih"
+    },
+    "heguan": {
+      "__uuid__": "03zMskEf9FNLImZvIEZn+A"
+    },
+    "chip_num": {
+      "__uuid__": "d7IGZTsaBCC5T/sO15ewca"
+    },
+    "panel_4": {
+      "__uuid__": "bcNHyOLK9D7I5rISET40Q8"
+    },
+    "panel_num": {
+      "__uuid__": "52BW0XvZtGiIHPfY0Gd9TS"
+    },
+    "point_2": {
+      "__uuid__": "90mDwFCb5LPIRq47CJscEZ"
+    },
+    "point_1": {
+      "__uuid__": "ffJpa833BPJ7yTcf1fEMyD"
+    },
+    "timer_num": {
+      "__uuid__": "8297oU395KmbB/e+jL2HVy"
+    },
+    "star": {
+      "__uuid__": "08EW6yQmhDXIvaNuYY+GJm"
+    },
+    "timer_point": {
+      "__uuid__": "e2gM7lHgJIN4yb9T+ONfDq"
+    },
+    "circle_2": {
+      "__uuid__": "00oyG/4eVD66Xhl49wW/I5"
+    },
+    "slant_2": {
+      "__uuid__": "01Yiq4L8tB1bdrpFNkokkT"
+    },
+    "edge_6": {
+      "__uuid__": "18OZc5aclI+71gci1NVhH7"
+    },
+    "panel_road": {
+      "__uuid__": "2dyzrjA+NHGYSnAWbC0CDf"
+    },
+    "explain": {
+      "__uuid__": "6exum2CfRElqVYbAn9Uc/V"
+    },
+    "slant_1": {
+      "__uuid__": "d7YSKnh1xLNI969dGWApwe"
+    },
+    "panel_5": {
+      "__uuid__": "5f97m8RsFMCIPayXWY+kB0"
+    },
+    "panel_7": {
+      "__uuid__": "a2O57TJkRMSbdTXtXv2R/s"
+    },
+    "progress_bar": {
+      "__uuid__": "e3ulGty7NCtJSvkbO89AYz"
+    },
+    "btn_repeat": {
+      "__uuid__": "6bMphfvghG57rgfTzGnLsk"
+    },
+    "panel_1": {
+      "__uuid__": "2bvymn7rNGc6/nzpxwq5JL"
+    },
+    "head_frame_mask": {
+      "__uuid__": "2dVhe38rBNn7t8fKQI6TOy"
+    },
+    "text_title": {
+      "__uuid__": "2aNq2SW7FPQ6Hq8wclcLY0"
+    },
+    "text_num": {
+      "__uuid__": "8dzvkazZ1KUYiXy2J3pAB4"
+    },
+    "circle_1": {
+      "__uuid__": "5e+9hPZgFIya9w4pD/RMRt"
+    },
+    "light_6": {
+      "__uuid__": "28ApCHKjZOHLN7zN3DwcMl"
+    },
+    "btn_revoke": {
+      "__uuid__": "76TcSseExC65u7RStO2zH5"
+    },
+    "text_4": {
+      "__uuid__": "f3860ZO+9Ewa9kVdBNlJve"
+    },
+    "text_5": {
+      "__uuid__": "d1Mp4KA+pH3ZqNe0qUWVSa"
+    },
+    "text_1": {
+      "__uuid__": "55Ma9wx+pE+oLEqzrNHVjO"
+    },
+    "text_3": {
+      "__uuid__": "33Gb7UpJdLI6T6Y/g8UvNA"
+    },
+    "text_2": {
+      "__uuid__": "20F9fZpiZLWbCPSrRCNNHR"
+    },
+    "mini_panel": {
+      "__uuid__": "08bBXe0i1MfbkQMgNX9Gmo"
+    },
+    "bet_panel": {
+      "__uuid__": "e04h5nqblE1bY/xaorvTeu"
+    },
+    "panel_gray": {
+      "__uuid__": "f9okNcpJ5JFYuvm0FPKua+"
+    },
+    "edge_7": {
+      "__uuid__": "e63aBU4yhG45vk3J1cNSvL"
+    },
+    "panel_total": {
+      "__uuid__": "acLwx5WWdLB4CWjq1SR42X"
+    },
+    "chip_light": {
+      "__uuid__": "0cdaguu1FD2YvZe5CKJdTk"
+    },
+    "head_panel": {
+      "__uuid__": "910Jjv/JxOn4y9UIbGkkUL"
+    },
+    "rule_title": {
+      "__uuid__": "a0UxUo5rBPwJ5YyOd/Dhyw"
+    },
+    "btn_arrow": {
+      "__uuid__": "ecG2C8FkdDxZDL9Ww08dnZ"
+    },
+    "edge_5": {
+      "__uuid__": "5fZAACRCZCCpBy/JThOoRU"
+    },
+    "chip_6": {
+      "__uuid__": "5eoy2lY3xF/L6+/2F7PKXa"
+    },
+    "head_frame": {
+      "__uuid__": "45XG2PYzhHDo3IsKqezHCB"
+    },
+    "chip_1": {
+      "__uuid__": "e62Iqxu0hOxJZjSNXbuDui"
+    },
+    "chip_3": {
+      "__uuid__": "6dADbgWl9MSbkBTH59vxa4"
+    },
+    "chip_4": {
+      "__uuid__": "2fQ0TK7tZLubCgprBDGf/h"
+    },
+    "point_num_2": {
+      "__uuid__": "22AAEE1xZEZ5b1aQP2PfVb"
+    },
+    "chip_5": {
+      "__uuid__": "45bBeDzXVGAr5ROIgjLlHk"
+    },
+    "chip_2": {
+      "__uuid__": "f4w7VDo95EQoIMaBYsl9O3"
+    },
+    "btn_recharge": {
+      "__uuid__": "5di7QDqDhIIq2U3Ptdw0Ia"
+    },
+    "panel_online": {
+      "__uuid__": "05D/ct9rdFNrRgKJWiCFN6"
+    },
+    "point_num_1": {
+      "__uuid__": "eevaGiK9ZBc5U/Zmf7kmoY"
+    },
+    "panel_2": {
+      "__uuid__": "1fNLehzKVJRYZ6SezCkeU3"
+    },
+    "text_music": {
+      "__uuid__": "3d8lJ97lNCA6vctrHZXr83"
+    },
+    "timer_bg": {
+      "__uuid__": "71AEd+eJxKHo8/ji3Mmx5W"
+    },
+    "text_effect": {
+      "__uuid__": "9cYTK5gERNdoKchvxJ2pAT"
+    },
+    "panel_3": {
+      "__uuid__": "2f81ctHgdKw5RQ5HRsxZHQ"
+    },
+    "text_xian": {
+      "__uuid__": "72DmCNBAZBXarTloJDQoN5"
+    },
+    "round_3": {
+      "__uuid__": "897WsNwThHd78b9w1axZWb"
+    },
+    "btn_close": {
+      "__uuid__": "70sGCeinxMN7ZAuBhpLed4"
+    },
+    "text_zhuang": {
+      "__uuid__": "e3Sbm2shFMLJtzSvGaJYns"
+    },
+    "btn_rules": {
+      "__uuid__": "d2bZurmDBI9YGT3oLicKx/"
+    },
+    "round_2": {
+      "__uuid__": "b0PmCbne5OD4rhPnF/m+Ga"
+    },
+    "round_1": {
+      "__uuid__": "edprl+7ndNH4rsyaYsJV63"
+    },
+    "btn_exit": {
+      "__uuid__": "e0B+Eh3mRJ5ZxQeVvkpdqa"
+    },
+    "btn_option": {
+      "__uuid__": "ea5/TTWXVFIIkSncUhQssD"
+    },
+    "btn_set": {
+      "__uuid__": "8bZAFVLAZN9Z62z+gFf7eC"
+    },
+    "head_frame_my": {
+      "__uuid__": "f90IeDHe9AqbXouTk7BqiL"
+    },
+    "timer_ring": {
+      "__uuid__": "04VRgtqH9A+LIhSVTkI2Lz"
+    },
+    "coin_effect": {
+      "__uuid__": "7cQlYEp2tICYfnOvkfrjTV"
+    },
+    "coin_music": {
+      "__uuid__": "4dpxzs5UJByYOcxxjJBBD6"
+    },
+    "panel_6": {
+      "__uuid__": "cc61t4xdRMgbTaxbAOFv/i"
+    },
+    "light_5": {
+      "__uuid__": "e1wpiX9rVLo6OJlKSnxvkC"
+    },
+    "edge_3": {
+      "__uuid__": "36tgmIWaVHm7GGQhJrlY0A"
+    },
+    "light_3": {
+      "__uuid__": "a24AZYZ8hO8p8nV3nFC78Y"
+    },
+    "light_4": {
+      "__uuid__": "c26VXZbD1KoL+PtZGCv+A7"
+    },
+    "edge_4": {
+      "__uuid__": "d6Rmxd3y5CgaAnOorj0ARG"
+    }
+  }
+}

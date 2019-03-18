@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "win": {
+      "__uuid__": "e9RPM+MilA3r6Day8l6W2B"
+    },
+    "fail": {
+      "__uuid__": "a7b3M+qKdNPpwQdI6/5J+V"
+    },
+    "card0": {
+      "__uuid__": "f2V4e2rWVE65K+ovx0llor"
+    },
+    "card1": {
+      "__uuid__": "fdqLd9UyFNqbowIu7JUDWQ"
+    },
+    "titleFrame": {
+      "__uuid__": "96unzS+uxDvpXGPjZBgqT3"
+    },
+    "tipsTime": {
+      "__uuid__": "59KolTgQdDQ5BuprFEkyMR"
+    },
+    "poker_bbg": {
+      "__uuid__": "a8D36CflNBbI7IeBxRfMV2"
+    },
+    "tipsNum": {
+      "__uuid__": "a2rGtISatPba9AwtfagTs5"
+    },
+    "type": {
+      "__uuid__": "7dsyZr6SRJjqhCSCRvH4aZ"
+    },
+    "poker_back": {
+      "__uuid__": "caOvdtN15OCo/7rc2AizbV"
+    },
+    "ddzTimeNum": {
+      "__uuid__": "a0rWX1B4NOxLCkBHNJ1zKw"
+    },
+    "hostFlag": {
+      "__uuid__": "4dkV4bpcFAsrs+hquYt5iP"
+    },
+    "lose": {
+      "__uuid__": "5boVlbQ6ZF7KQcPsqL1aLI"
+    },
+    "txt_zf1": {
+      "__uuid__": "19YlSEC41DdZ/K/Ize5wS7"
+    },
+    "redJoker": {
+      "__uuid__": "3eITJWgDdAfoaJYHLtZcPs"
+    },
+    "redjokerCat": {
+      "__uuid__": "d44aBs0iRGjYlTxBUAUTeN"
+    },
+    "three": {
+      "__uuid__": "76HSJ0UNRDGooz2CsExO6G"
+    },
+    "joker": {
+      "__uuid__": "bdEj/+FJ1CgYWmS+2OXpmq"
+    },
+    "head": {
+      "__uuid__": "37WaHlRdpH8ritko16qdNc"
+    },
+    "canNot": {
+      "__uuid__": "49FY4L/FhKkrwLv4PED9G/"
+    },
+    "cardMask": {
+      "__uuid__": "91HaQb/dRBp6H1p+QC9/Jn"
+    },
+    "soundBg": {
+      "__uuid__": "b6l0zi+/RKq7Cd6ziDY8ua"
+    },
+    "soundLine": {
+      "__uuid__": "a97wajaIBJyI9O1kgrE6g7"
+    },
+    "btn1": {
+      "__uuid__": "faxBjFy9BDyL8JBvaQPAFd"
+    },
+    "btn2": {
+      "__uuid__": "97r9frDQBAhYOiVYSw8gN9"
+    },
+    "btnContinu": {
+      "__uuid__": "c8VvKKlf5Barz7nYabJfwt"
+    },
+    "btnReturnLobby": {
+      "__uuid__": "4bI2CCdcNGAaLuP2+wUHhQ"
+    },
+    "cancelHost": {
+      "__uuid__": "e4UjdnUjlNl4Wwr/av10vc"
+    },
+    "noDouble": {
+      "__uuid__": "fdPQu4dKZGdKmHdhsjTKMH"
+    },
+    "jokerCat": {
+      "__uuid__": "6bKMiz7G1IgJtsAJleNnuv"
+    },
+    "btn_pay": {
+      "__uuid__": "eeRPkMkAJKY7SlNDuhjWYc"
+    },
+    "headFrame": {
+      "__uuid__": "12rWD5ZmVHTbTnErZSZfLV"
+    },
+    "cardLand": {
+      "__uuid__": "1btPZQo15I+LWM3qrw5kpm"
+    },
+    "clock": {
+      "__uuid__": "9882s7rdpP3qWY1WFghp4D"
+    },
+    "ddz_clock": {
+      "__uuid__": "e5NJooeORI8567CsVLLtey"
+    },
+    "nothingSp": {
+      "__uuid__": "a85c22D0pHurdnO4CA+ENZ"
+    },
+    "headCoinFrame": {
+      "__uuid__": "ebgxLejnFPK75+RbecNuEe"
+    },
+    "playCard": {
+      "__uuid__": "46grwFU5lDe7BtQCnYnXH6"
+    },
+    "double": {
+      "__uuid__": "ba4pECRAxDjbaZsHByRwtv"
+    },
+    "playNothingSp": {
+      "__uuid__": "05TQdLkJZFxqmmxy8xJ9P5"
+    },
+    "nothing": {
+      "__uuid__": "ce6k7jqvBE+58T4CCOO9Bu"
+    },
+    "two": {
+      "__uuid__": "aaX7SdF35PrqYsNlBgGdS3"
+    },
+    "btnCallBack": {
+      "__uuid__": "42EXtZaQpHC5wNDw7olDR+"
+    },
+    "handle": {
+      "__uuid__": "15b0hlKrtAGrde+yoQc20M"
+    },
+    "btnOpenCard": {
+      "__uuid__": "24LiAvUGhGWKO2wuXC63V+"
+    },
+    "btnSetting": {
+      "__uuid__": "22XHgYKVNCnpkb0nzAEtdU"
+    },
+    "btnBack": {
+      "__uuid__": "df7bhp2p1NLJS/fNHLUi9E"
+    },
+    "one": {
+      "__uuid__": "0cSP78qJFKnb1KlR6BoNrv"
+    },
+    "title": {
+      "__uuid__": "c6VSSL8hdOz7pIWSr40Yf0"
+    },
+    "sound": {
+      "__uuid__": "9bJdwa++lFtJCH5YA+gq6D"
+    },
+    "headLand": {
+      "__uuid__": "bdnjnWKPZJkoYag1CopbEx"
+    },
+    "music": {
+      "__uuid__": "a2VA/+vZlN1rlaMp1ASgpP"
+    },
+    "tipCard": {
+      "__uuid__": "1fISTJXQVJgLTRRnibBaxb"
+    },
+    "playNoting": {
+      "__uuid__": "2al7RzInRDOLebFc1r4AQq"
+    },
+    "tow": {
+      "__uuid__": "ccQ/WY0bJNhKa2xRUGSAO1"
+    },
+    "ddzCommMask": {
+      "__uuid__": "bcVCYi0NdFxbY/OZ1ZMzgi"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_banker_cancle",
+    "texture": "1eb378af5",
+    "rect": [
+      609,
+      157,
+      278,
+      133
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      282,
+      136
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

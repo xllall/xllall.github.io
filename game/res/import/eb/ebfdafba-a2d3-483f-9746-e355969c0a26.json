@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "dhs",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "dhsInit",
+    "gid": "16"
+  }
+}

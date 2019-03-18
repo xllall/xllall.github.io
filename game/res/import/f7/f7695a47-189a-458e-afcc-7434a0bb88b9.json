@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_down",
+    "texture": "11ff5bbf0",
+    "rect": [
+      832,
+      297,
+      61,
+      41
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      62,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

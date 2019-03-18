@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bankerTitile",
+    "texture": "19edd1076",
+    "rect": [
+      237,
+      960,
+      214,
+      61
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      217,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

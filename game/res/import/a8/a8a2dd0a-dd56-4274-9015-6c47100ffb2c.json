@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lose_fan_sub",
+    "texture": "189096c86",
+    "rect": [
+      992,
+      183,
+      32,
+      9
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      32,
+      43
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

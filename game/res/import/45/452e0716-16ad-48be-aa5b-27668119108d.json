@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "brnn",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "brnnInit",
+    "gid": 1
+  }
+}

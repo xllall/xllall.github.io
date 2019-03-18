@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bankerHeadFrame",
+    "texture": "1eb378af5",
+    "rect": [
+      351,
+      3,
+      424,
+      148
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      428,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

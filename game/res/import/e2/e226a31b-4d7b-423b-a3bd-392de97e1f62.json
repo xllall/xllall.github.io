@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "tbao",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "tbaoInit",
+    "gid": "6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "lobby",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "lobbyInit"
+  }
+}

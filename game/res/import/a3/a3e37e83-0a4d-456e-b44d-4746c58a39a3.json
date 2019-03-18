@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_score_num",
+    "texture": "1da9cda8d",
+    "rect": [
+      949,
+      595,
+      303,
+      33
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      309,
+      37
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "ddz",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "ddzInit",
+    "gid": 3
+  }
+}

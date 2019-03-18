@@ -1,0 +1,416 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "settingbg": {
+      "__uuid__": "21gNE+N4hChIDjilbWGM/z"
+    },
+    "line16": {
+      "__uuid__": "00LIgYfStK0oFg0ueG+JWb"
+    },
+    "line14": {
+      "__uuid__": "0am1REhh1Pi4v8V3Peu2en"
+    },
+    "f4": {
+      "__uuid__": "f9s7Nh2EpHfLA/cMvAT6dx"
+    },
+    "f10": {
+      "__uuid__": "89RGNerq9K7KPB6s8+aS5f"
+    },
+    "d6": {
+      "__uuid__": "74YuZTm0xFkZGxxZnNnnZe"
+    },
+    "bar0": {
+      "__uuid__": "e6ETy3pZxEZJKeDPijMU+p"
+    },
+    "d9": {
+      "__uuid__": "33gXRSSSpFs5aHvFoAj5Og"
+    },
+    "d3": {
+      "__uuid__": "394IO/I+JNaY1LM8KR7QN9"
+    },
+    "line36": {
+      "__uuid__": "125FlO/KBD9ICiHIPlUzVu"
+    },
+    "n8": {
+      "__uuid__": "65aph1uzxBmarjUpCQMv5a"
+    },
+    "number31": {
+      "__uuid__": "19gaxdumBParj1Qj0pEiDO"
+    },
+    "n7": {
+      "__uuid__": "a69Pw1sW1Hw65MaynJZhuA"
+    },
+    "fish_score_num": {
+      "__uuid__": "a3436DCk1FbrRNR0bFijmj"
+    },
+    "n23": {
+      "__uuid__": "94Usr9p2lKQ40vQ5FnueEV"
+    },
+    "number21": {
+      "__uuid__": "8cjKZ02MVMfYCtS1+lV33w"
+    },
+    "number41": {
+      "__uuid__": "34lGGbTtBIb5TEoGXrX5tt"
+    },
+    "f3": {
+      "__uuid__": "edDdc72oVP8Yi/+m6KzY7a"
+    },
+    "d1": {
+      "__uuid__": "d4spmsFV5HI7rCiGHSf0q8"
+    },
+    "f1": {
+      "__uuid__": "e4YMwAAs1JYJcMsiuCIiy0"
+    },
+    "n9": {
+      "__uuid__": "f4UR3yW0NID7A/4e4kYiKG"
+    },
+    "n12": {
+      "__uuid__": "60N5JY09RJ37I1+atXSWPB"
+    },
+    "f2": {
+      "__uuid__": "9dRJU28vdGqq1YdSAaNQ7/"
+    },
+    "n1": {
+      "__uuid__": "a9FkV3c/FONIXsBcyfyKN1"
+    },
+    "d5": {
+      "__uuid__": "53KLSEE2pEE6euwfwPMpGS"
+    },
+    "d4": {
+      "__uuid__": "6eQHTHTpRNnJN1uZAoV9Sr"
+    },
+    "bar1": {
+      "__uuid__": "f9o7CCucxExJCVmsVeWT+Z"
+    },
+    "d2": {
+      "__uuid__": "63gCRwA3tK1qI5XHG8wXXT"
+    },
+    "f8": {
+      "__uuid__": "05hebTYw9M5r5tKm36sd00"
+    },
+    "waiting": {
+      "__uuid__": "279uLiTXpAnpIcewjwbTap"
+    },
+    "f6": {
+      "__uuid__": "d25GtkMBNIx4YZ4a2c7LgJ"
+    },
+    "n22": {
+      "__uuid__": "718wAlj/JGBpUHZCFucVx6"
+    },
+    "n18": {
+      "__uuid__": "6bSV4uGlxMRZGFKdtPC0Nk"
+    },
+    "n19": {
+      "__uuid__": "d7hkf4APdPtogYbh2EgjGr"
+    },
+    "n6": {
+      "__uuid__": "c1gZ/Q6j1O6rPzxOJCPWMF"
+    },
+    "n3": {
+      "__uuid__": "b6Z4wJbA9L2bsBRed4P0dB"
+    },
+    "d7": {
+      "__uuid__": "61xr4FrhdFu7X39JFITRd9"
+    },
+    "shoal": {
+      "__uuid__": "242qLad9xA2oUUuqyUkavh"
+    },
+    "n21": {
+      "__uuid__": "cbJ8/RvStI4ZPhLn/G8kYh"
+    },
+    "n20": {
+      "__uuid__": "a8cF0dT5JIboSW/d8P1du5"
+    },
+    "d12": {
+      "__uuid__": "79PA1fxjNAUZwMEtVtZF/L"
+    },
+    "line24": {
+      "__uuid__": "14n4cXauVIRLDuxIP6QeuI"
+    },
+    "line21": {
+      "__uuid__": "18sd9V7gZOX5OTcVipCyUN"
+    },
+    "bigprize": {
+      "__uuid__": "0a3v2KEApJ2ID69j9Vibwo"
+    },
+    "number30": {
+      "__uuid__": "0fEIOUccJDLrcSwwIhhkTp"
+    },
+    "number20": {
+      "__uuid__": "9cOkIkuThGdYjx/hKUQUUQ"
+    },
+    "line07": {
+      "__uuid__": "21pzIC6uhDVKCygMloveOm"
+    },
+    "n2": {
+      "__uuid__": "23fqyh/8dGl7ufCoVhrSIu"
+    },
+    "n4": {
+      "__uuid__": "4fkzkNDJpOhrcC0T7ooXy4"
+    },
+    "d11": {
+      "__uuid__": "c4Iq+yE+xGsKQkxRogXRor"
+    },
+    "n14": {
+      "__uuid__": "6fvwqN2kZBF7i/QnoOON5R"
+    },
+    "n13": {
+      "__uuid__": "6bZkadOAJI3q0WJwGW2Kgx"
+    },
+    "line02": {
+      "__uuid__": "24o7kZ24NBVJAYKt+Lj7Ji"
+    },
+    "n27": {
+      "__uuid__": "acjsuSIItBBIH8jdKpoReG"
+    },
+    "n10": {
+      "__uuid__": "72Ub0z5ElFHYoo7jPS12tz"
+    },
+    "number11": {
+      "__uuid__": "90Nf5UE5lMZ7EudPNq12DI"
+    },
+    "15_bullet4": {
+      "__uuid__": "ec7fmumHdGd4VR188Kg3TX"
+    },
+    "15_bullet3": {
+      "__uuid__": "7cp6FZLzZOwIIU6x4NwmhY"
+    },
+    "n5": {
+      "__uuid__": "7aBEyh1g1JzLgtJAwBtmG6"
+    },
+    "n26": {
+      "__uuid__": "18+B9sJRFLp6h19s4e5FCq"
+    },
+    "d8": {
+      "__uuid__": "b7dxIC2aBMJYEZZYg5nlPD"
+    },
+    "d10": {
+      "__uuid__": "c5iIWAdhVITpiVsO2Ff6JU"
+    },
+    "n16": {
+      "__uuid__": "29Xt/jEvVMyp17nAJ+ffpJ"
+    },
+    "n11": {
+      "__uuid__": "40dVFwmRFC6ZLyv2YITr6a"
+    },
+    "l1": {
+      "__uuid__": "bag14wLFxH5Yt7oQ78fj16"
+    },
+    "n25": {
+      "__uuid__": "b6EmHnI5xJH60XmKCf8jOb"
+    },
+    "kick": {
+      "__uuid__": "edzJ42VSxKBKFK/dvRmkAf"
+    },
+    "addscore": {
+      "__uuid__": "88G+EEoA5IgaQoX3zG0K6A"
+    },
+    "line23": {
+      "__uuid__": "45+gRIGS1I4ZLxk8cw70vE"
+    },
+    "line15": {
+      "__uuid__": "4bbt6SJMtCVolj8rMZKiH2"
+    },
+    "number40": {
+      "__uuid__": "aeHhlhl31PTLaa2ybM2huP"
+    },
+    "n24": {
+      "__uuid__": "26GeQHTiJOeoniHwhZlsWR"
+    },
+    "n17": {
+      "__uuid__": "5cNJE0pl9DR6GiEvrHp1jX"
+    },
+    "n15": {
+      "__uuid__": "31Dibm0cNM9pc/ZDjiHu6q"
+    },
+    "menubg": {
+      "__uuid__": "14NMUXt8VLs6cDrZrprTv2"
+    },
+    "f5": {
+      "__uuid__": "5eBkYqJXtOHo4EiUJh2dbl"
+    },
+    "line25": {
+      "__uuid__": "6aj3JX8M1GIIcFffIs2sAB"
+    },
+    "zuhe3": {
+      "__uuid__": "e15VdgB4hPyrgnnabUjYZC"
+    },
+    "line06": {
+      "__uuid__": "6eQyvlIsRP2qgFmxIX2m/f"
+    },
+    "f9": {
+      "__uuid__": "62ZqSotr1KmoKOU0iRSe8x"
+    },
+    "f11": {
+      "__uuid__": "cdZAAGbLVIiJYex1Hq33SR"
+    },
+    "line33": {
+      "__uuid__": "74vqbFsZBE5JggFAudgEy9"
+    },
+    "line03": {
+      "__uuid__": "89PnTKaSBNnq73rIq8roRO"
+    },
+    "line27": {
+      "__uuid__": "8f4iI+e1xMwKq33xj7ND6q"
+    },
+    "f12": {
+      "__uuid__": "f3fKCILlhDxIZ9U2oQCZdz"
+    },
+    "line26": {
+      "__uuid__": "8f+EW/xDRMrIXurmNVwwP/"
+    },
+    "line35": {
+      "__uuid__": "91ZJxUuXlPdpjFRbIHMvtf"
+    },
+    "line11": {
+      "__uuid__": "93AwaiqPlAMYsMVu0SXmZ3"
+    },
+    "line04": {
+      "__uuid__": "97PSlzg4NNFLQ2xdx7pL6s"
+    },
+    "line32": {
+      "__uuid__": "abY7mZXCJM7rtMhXHsMjKb"
+    },
+    "line01": {
+      "__uuid__": "ab3vAtAU9K8JyAo47j2CBI"
+    },
+    "number10": {
+      "__uuid__": "81FbKEugVMZqBFgGy+9pVn"
+    },
+    "line17": {
+      "__uuid__": "b0IwzLQHpM6bDdxQZIqv+k"
+    },
+    "bigprize2": {
+      "__uuid__": "5eOYm2VN9BgbIEgW85ESAd"
+    },
+    "line12": {
+      "__uuid__": "c8QaI3VKdGUZ7v2oP50six"
+    },
+    "itembg": {
+      "__uuid__": "6fUsnenMROQoB/X+ryKAsv"
+    },
+    "line37": {
+      "__uuid__": "cd1qzn6HtGtquFX94uOMHI"
+    },
+    "n28": {
+      "__uuid__": "c9LQi6a8FDM42UDxn4EXOq"
+    },
+    "n30": {
+      "__uuid__": "68vp1iUaJE37TwEsrZPaMp"
+    },
+    "line22": {
+      "__uuid__": "dbMm/PxXdJOphwTYWlw5/c"
+    },
+    "line05": {
+      "__uuid__": "deGd8RfeFMLrNP4ecUWEHH"
+    },
+    "personal_bg": {
+      "__uuid__": "b4sRidGHpN07JoDFelYRp7"
+    },
+    "15_bullet2": {
+      "__uuid__": "f5MZb3dN5D/I2fG3/y+aU3"
+    },
+    "n29": {
+      "__uuid__": "e7I8NpApxH3IjDDK/GHaxC"
+    },
+    "line34": {
+      "__uuid__": "deroPq8+FNcLOwrxwi4eUi"
+    },
+    "line31": {
+      "__uuid__": "eb0X/1BTZDlKT3ZMSXxoNQ"
+    },
+    "line13": {
+      "__uuid__": "faji2gneJFCLXUAiDqK6rN"
+    },
+    "15_cannon21": {
+      "__uuid__": "cfhb1uBWdDxaW/jYep+arO"
+    },
+    "btn_out": {
+      "__uuid__": "98Xerm9S5Plq+et3K82W5e"
+    },
+    "dot": {
+      "__uuid__": "f9AuNbFWxBkaVwsLlD/+i/"
+    },
+    "deduction": {
+      "__uuid__": "f0YmrPGyRHEazbd7ChTWSx"
+    },
+    "15_cannon3": {
+      "__uuid__": "a1iZWRUFlFAZd9iAflHhO5"
+    },
+    "15_cannonbg": {
+      "__uuid__": "13vj9/ZTdBDICRSNzSF0Cl"
+    },
+    "f7": {
+      "__uuid__": "caVEjExIxKXIDGZYLhNWsp"
+    },
+    "auto2": {
+      "__uuid__": "d3TLhgkCFGFYda3MWU6s/3"
+    },
+    "flame2": {
+      "__uuid__": "59OHhsaApLDIQEpK+uB/Wq"
+    },
+    "flame1": {
+      "__uuid__": "0akznv1dhBYI+zxqupygHZ"
+    },
+    "flame3": {
+      "__uuid__": "29K+L0F8ZJHoUXKTZWsK+5"
+    },
+    "lock": {
+      "__uuid__": "2fIzvcbBlBCIGT10IsIT2+"
+    },
+    "auto1": {
+      "__uuid__": "dakWUddzdHh7whZyiFi+bu"
+    },
+    "btn_close": {
+      "__uuid__": "f5T38Dn1FHF5d9VoVxAyAb"
+    },
+    "btn_recharge": {
+      "__uuid__": "9dmofN2yxEkYeLrJiYgSuh"
+    },
+    "15_cannon4": {
+      "__uuid__": "2csRwQAD9MjqIW8cVV/z+3"
+    },
+    "15_cannon2": {
+      "__uuid__": "41nn16hrBF7JY+ZllnPgSy"
+    },
+    "15_cannon41": {
+      "__uuid__": "5bvEfHHDhHrqwjjFAeolL9"
+    },
+    "exit": {
+      "__uuid__": "6c+dj+GCVFsLwOzS0i1N8p"
+    },
+    "net": {
+      "__uuid__": "d1gtSxaYNBFoXhCZifub2v"
+    },
+    "help": {
+      "__uuid__": "7eAVhutHpDn6RICvyIxKxW"
+    },
+    "setting": {
+      "__uuid__": "a0Iwgw6XxCH5i8OtvXXmqa"
+    },
+    "15_cannon31": {
+      "__uuid__": "7ej4yd8tpC7bKHYskptan2"
+    },
+    "zuhe2": {
+      "__uuid__": "5fiKj93jZGHrSjA6Wp1XA4"
+    },
+    "zuhe1": {
+      "__uuid__": "27EJzUKA1GJp5xmbe+vkAp"
+    },
+    "btn_gold": {
+      "__uuid__": "58scCHEAhOvqX3qQVEnew6"
+    },
+    "t1": {
+      "__uuid__": "0fPPDyP9tJCKEaNueQGT9/"
+    },
+    "t2": {
+      "__uuid__": "76gEC58RdCRYnhA2RoyL1b"
+    },
+    "t4": {
+      "__uuid__": "567z17j+FIPI/VaXix2HaV"
+    },
+    "t3": {
+      "__uuid__": "e6797nnhtGpLe7W5mvO3tq"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beiLFrame",
+    "texture": "1539a6ce2",
+    "rect": [
+      3,
+      588,
+      911,
+      361
+    ],
+    "offset": [
+      -1,
+      2
+    ],
+    "originalSize": [
+      915,
+      367
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

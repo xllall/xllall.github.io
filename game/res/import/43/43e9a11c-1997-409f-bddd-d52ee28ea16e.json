@@ -1,0 +1,242 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "sp_light": {
+      "__uuid__": "00kXNxsTpHMYzdZoz5Dxl3"
+    },
+    "ruleFrame": {
+      "__uuid__": "09cOTcsYdOJKt7XS/iI4R0"
+    },
+    "soundBg": {
+      "__uuid__": "b0Z1xcqQdG2L4iii4GdpfZ"
+    },
+    "sp_menuFrame": {
+      "__uuid__": "67RN9CQ9tKFZpHYSpxRmsg"
+    },
+    "sp_betFrameBommon": {
+      "__uuid__": "89G/6Hg4ZFfKSq3wrx5Eds"
+    },
+    "bankerRule": {
+      "__uuid__": "afdF1CnaBBMosUUfhw5/gO"
+    },
+    "historyBetArrow": {
+      "__uuid__": "0dcLZ59TtGb63sD//QbJal"
+    },
+    "soundLine": {
+      "__uuid__": "e3hvs9nnBLcKOKh+0G9u8u"
+    },
+    "soundTitle": {
+      "__uuid__": "09szF5XsdEm66flm2+btkj"
+    },
+    "bankerLine": {
+      "__uuid__": "f0VigevNBBhLGMAQGThjZJ"
+    },
+    "sp_betFrameTop": {
+      "__uuid__": "99f5QSzbhN3I4PltYFsV9X"
+    },
+    "bankerHeadFrame": {
+      "__uuid__": "eaTW+oq2xHa4OZoXlLN4tL"
+    },
+    "myHeadCoinFrame": {
+      "__uuid__": "d2uYsy3TNJ3Lmik1xbGAK4"
+    },
+    "sp_dealer": {
+      "__uuid__": "32uH+Z0slIDZ97W/jIrhyO"
+    },
+    "btn_bankerList": {
+      "__uuid__": "85NzqovEBHv4KgfVrSp2T4"
+    },
+    "sp_callBackFrame": {
+      "__uuid__": "b9ttzvz5ZOGY0irtZsHz+K"
+    },
+    "historyTitle": {
+      "__uuid__": "546Il3axRBjoHxIC8HNcyB"
+    },
+    "bankerTips": {
+      "__uuid__": "c60OYsaJFFY4WSUML3ErOm"
+    },
+    "bankerTitile": {
+      "__uuid__": "a135S5PcRObL54dIm+1UOi"
+    },
+    "musicTitle": {
+      "__uuid__": "6bhsqQz89MUYir5q61HBD+"
+    },
+    "chipNum3": {
+      "__uuid__": "35J7OsgTJBpJznHXNNwMZ7"
+    },
+    "chipK4": {
+      "__uuid__": "4eU8t5wV1EZ4mzBPGh0HQL"
+    },
+    "settingTitle": {
+      "__uuid__": "edLGxuHddLVbfqCKwVwOcg"
+    },
+    "btn_repeat": {
+      "__uuid__": "batAyqrIZGdIeB912TiG3R"
+    },
+    "banker": {
+      "__uuid__": "7azkKnrgNI2K81YRpWWFSK"
+    },
+    "soundHandle": {
+      "__uuid__": "986LoN8h5PG6rc4di/8fhz"
+    },
+    "sp_down": {
+      "__uuid__": "f7aVpHGJpFjq/MdDSgu4i5"
+    },
+    "ruleTitle": {
+      "__uuid__": "8eIBImGr1EOocBcjFkhRHO"
+    },
+    "btn_cancel": {
+      "__uuid__": "20p7VseQVD3IqVQIJAtcLs"
+    },
+    "banker_cancle": {
+      "__uuid__": "8fyaafS39Dz7+y8eLra3ef"
+    },
+    "chipNum1": {
+      "__uuid__": "48qie8WfBCPLjG1G9oQFVe"
+    },
+    "banker_suer": {
+      "__uuid__": "e6x0zUA/tHYbGD4sWC7DYm"
+    },
+    "btn_banker_cancle": {
+      "__uuid__": "fbWuJonXtNi4tVrlcvqGQ4"
+    },
+    "sp_chip6": {
+      "__uuid__": "80YZIg68ZMAYbcEUDAjlb9"
+    },
+    "sp_chip4": {
+      "__uuid__": "c3TABnK9xMlq6dhqO53DV7"
+    },
+    "chipNum4": {
+      "__uuid__": "bboSr9CBRKx46XY4fsCl4A"
+    },
+    "chipNum2": {
+      "__uuid__": "d79qgBymxClKCJnzOR0lNq"
+    },
+    "sp_chip2": {
+      "__uuid__": "f9r3jdpxZDRo48liEbnHiQ"
+    },
+    "sp_chip3": {
+      "__uuid__": "fewPfzYZtKA6S1oWGKyC1x"
+    },
+    "sp_chip5": {
+      "__uuid__": "081mG5xQhDzp2myVhSB+oP"
+    },
+    "queueItemTitle": {
+      "__uuid__": "10Q3sb7yRLMps3UaXU8Go2"
+    },
+    "chipK5": {
+      "__uuid__": "5dn5vUD4RCf6n73T/scloi"
+    },
+    "chipK1": {
+      "__uuid__": "87DwHRfGhLuag+wGogRRiN"
+    },
+    "chipK3": {
+      "__uuid__": "e8SwZWvbZOi7DoauResmbr"
+    },
+    "sp_chip1": {
+      "__uuid__": "95I00jgfxD5oC1SltErPu6"
+    },
+    "btn_buy": {
+      "__uuid__": "116ztXO15J7pVspPhQQivS"
+    },
+    "bet2": {
+      "__uuid__": "e2oJdQrphCBYGE2fjZgGle"
+    },
+    "chipNum5": {
+      "__uuid__": "edrvz0PvxPuZXpiMzrj04v"
+    },
+    "recordSheetFrame": {
+      "__uuid__": "abdx761sdEl5Lzsc28ZJOP"
+    },
+    "timeNum": {
+      "__uuid__": "07ioJIN29NfrBT5y3OJr0R"
+    },
+    "bet3": {
+      "__uuid__": "a9p+ikiw9CT4FtPdRkq8KF"
+    },
+    "sp_bankerCoin": {
+      "__uuid__": "71Y2wrQEtNXpq9Jk50Ts1F"
+    },
+    "chipK2": {
+      "__uuid__": "d5/vMBSrdG3KqaiRodgR+O"
+    },
+    "betNumFrame": {
+      "__uuid__": "48UbuIGcpFmonuVrulMaIR"
+    },
+    "brshFaker": {
+      "__uuid__": "46grQW+oVFKrPz5pMgymYb"
+    },
+    "brshFlowr": {
+      "__uuid__": "aboERcO7hPwIlp/Gqnrn4L"
+    },
+    "brshBlack": {
+      "__uuid__": "7esCOM/bxMiJefq9Dl4OGf"
+    },
+    "brshRad": {
+      "__uuid__": "80ac7meaRE947s2gqwD6MK"
+    },
+    "btn_history": {
+      "__uuid__": "1bER0oCKdCFIitsno8aVty"
+    },
+    "sp_bankerFlag": {
+      "__uuid__": "b0FykELBRKWoBHNN7GfD3u"
+    },
+    "historyBetIconBase": {
+      "__uuid__": "c8UYZpUPhGO5/paFHmaIvv"
+    },
+    "bet4": {
+      "__uuid__": "2a4vkQul9Ex47RYsB3PgYp"
+    },
+    "btnCallBack": {
+      "__uuid__": "64lnql04FC3oYmQljzfqpM"
+    },
+    "btn_menu": {
+      "__uuid__": "89dBodpyNHIqc1wvVa4DZO"
+    },
+    "bet1": {
+      "__uuid__": "adfKZRQIFNl7DM6T4P/pS9"
+    },
+    "btn_setting": {
+      "__uuid__": "dcCB4qyplA+IIRPmXBvN7u"
+    },
+    "sp_online": {
+      "__uuid__": "103KLDcu9MHKLC4TvShu1r"
+    },
+    "historyResult1": {
+      "__uuid__": "66tXiJb8BDQaIkWzThsp2M"
+    },
+    "sp_clock1": {
+      "__uuid__": "54Lm0jsSlJ2I7vtVmJACEo"
+    },
+    "spArrow": {
+      "__uuid__": "d5TEb/f6BDz4zcdb2ZNGjK"
+    },
+    "headFrame": {
+      "__uuid__": "bdwpnPCq1DB6+t/EFJMozo"
+    },
+    "btn_rule": {
+      "__uuid__": "75BqZpIdJJbpJGHrU8bCmJ"
+    },
+    "sp_coin": {
+      "__uuid__": "18u/D3p8tGPpMvA6yGEKnx"
+    },
+    "btnPopBack": {
+      "__uuid__": "ff1GtW6uRDFLGaDjvEoWKj"
+    },
+    "historyBetIcon2": {
+      "__uuid__": "5ckZvcQzBGEbq7AivjL5tG"
+    },
+    "comMask": {
+      "__uuid__": "ef4yZ76wVNpbKcDlhTMgeR"
+    },
+    "historyResult0": {
+      "__uuid__": "21e1LYUxJP1ZTQjg2lLG8M"
+    },
+    "head1": {
+      "__uuid__": "c12HjOCHZPa5SYZb/viXER"
+    },
+    "sp_clock2": {
+      "__uuid__": "efR2p6scVOsK/VE0zxm47v"
+    }
+  }
+}

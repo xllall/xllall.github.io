@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "ermj",
+    "version": "1",
+    "dependence": [
+      "common"
+    ],
+    "init": "ermjInit",
+    "gid": "9"
+  }
+}

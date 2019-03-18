@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle",
+  "json": {
+    "id": "common",
+    "version": "1",
+    "dependence": [
+      "cocos"
+    ],
+    "init": "commonInit"
+  }
+}

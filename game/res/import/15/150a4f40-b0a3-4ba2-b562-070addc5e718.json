@@ -1,0 +1,185 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "selback": {
+      "__uuid__": "13aoS8/edO0KroSo4UiF6o"
+    },
+    "btn_cz": {
+      "__uuid__": "54Vc/B+uRAEoAwVFBGg0GH"
+    },
+    "setting0": {
+      "__uuid__": "53QYC1HbFAHrn+nZwyo741"
+    },
+    "btn_ready": {
+      "__uuid__": "5eQ68aUgRFrrPwxJ8UXi1W"
+    },
+    "pozhai": {
+      "__uuid__": "3dqpehiNFNqIOvQkxKO9TR"
+    },
+    "txt_bpz": {
+      "__uuid__": "5a9G2akKVNzL+PLm/pd1jL"
+    },
+    "head1": {
+      "__uuid__": "b1SNtXqcFBKLUiQeBNrSfK"
+    },
+    "btn_touxiang": {
+      "__uuid__": "8elnziy6tBm6fxxgg65yEM"
+    },
+    "btn_xl": {
+      "__uuid__": "151ZsnbphD9Zen0bAbtSIq"
+    },
+    "txt_x4": {
+      "__uuid__": "58MBTo6XlJz6AUoe10T7iP"
+    },
+    "txt_x2": {
+      "__uuid__": "f2FjeQaV9DcKf1d+BRkMZ0"
+    },
+    "progress": {
+      "__uuid__": "82MqdK18tHkaJXLbNhP7Kc"
+    },
+    "setting2": {
+      "__uuid__": "62JvEZm0hLlZvWT0pqw0Ak"
+    },
+    "10score": {
+      "__uuid__": "deS7KklYZKGIi5k9Y5joVl"
+    },
+    "btn_bushou": {
+      "__uuid__": "471HKFOfJKp4uF8ca1AOZd"
+    },
+    "headmask": {
+      "__uuid__": "0acX2pkZFBwJSpJ22SmQBj"
+    },
+    "btn_l": {
+      "__uuid__": "1axxr2qXpLUas/SigCHzcg"
+    },
+    "count1": {
+      "__uuid__": "62ZnHaR8VKgLedGPIk1QVv"
+    },
+    "btn_h": {
+      "__uuid__": "fdYul6wchMdLQYYtd/IGFR"
+    },
+    "saizi4": {
+      "__uuid__": "35CMlDcdxML4bQ19kiwh+0"
+    },
+    "saizi5": {
+      "__uuid__": "4ccbHYWfVLmqvTKp+UgFFp"
+    },
+    "saizi6": {
+      "__uuid__": "68ArMcOhtDLai0RBCkv74m"
+    },
+    "btn_sz": {
+      "__uuid__": "a3v77L2VVEtISUZr4+FCnG"
+    },
+    "btn_gz": {
+      "__uuid__": "eewu4wPW9K4YHsrlesctHQ"
+    },
+    "count3": {
+      "__uuid__": "d0QSFp8q9Mcan/QMavKC7Y"
+    },
+    "count7": {
+      "__uuid__": "39veOwvtFElIMyBJ0ifEdu"
+    },
+    "btn_back": {
+      "__uuid__": "f1A6pQrS9LL7kGVz8wET+B"
+    },
+    "count4": {
+      "__uuid__": "b7HCwGnyZA+q6IpiWDRztV"
+    },
+    "txt_pozhaui": {
+      "__uuid__": "b2TW5KxWxOVajHalMTVCx3"
+    },
+    "count13": {
+      "__uuid__": "d8ujVHdjRLFZ7/gjjXWNn9"
+    },
+    "btn_fanpi": {
+      "__uuid__": "619dDCJVNOFa/5BNYYDzEH"
+    },
+    "txt_bz": {
+      "__uuid__": "f9f45NxktGhrOL6xSFw5Wp"
+    },
+    "count8": {
+      "__uuid__": "f4GrqhA1ZF7YiJbLHF9sw0"
+    },
+    "5score": {
+      "__uuid__": "daUFOfzWFGn57zjmBXEwtV"
+    },
+    "count12": {
+      "__uuid__": "fc5MIEOgpKmoxU/jxuY1nm"
+    },
+    "1score": {
+      "__uuid__": "efi9bkYjdHV7XA7GO6x913"
+    },
+    "count6": {
+      "__uuid__": "9fubbmxWVOBpNvlPQ4YYQ2"
+    },
+    "count14": {
+      "__uuid__": "34eGEe4aJKgpUDgPeYRbOw"
+    },
+    "count10": {
+      "__uuid__": "2bobx2B6dDzaSzWVnf24Cb"
+    },
+    "zhai": {
+      "__uuid__": "23Qs472cpBoZJdoJA6Wtg2"
+    },
+    "count11": {
+      "__uuid__": "60RMVwFd5Lw568mYuiZvnY"
+    },
+    "sz5": {
+      "__uuid__": "00bfcZjBdKqI/t2JTf5RcJ"
+    },
+    "saizi3": {
+      "__uuid__": "78dxPy14NNIp3JhpPpHwXQ"
+    },
+    "saizi1": {
+      "__uuid__": "8cCtzqUfhAIKJdyRMODe+u"
+    },
+    "saizi2": {
+      "__uuid__": "feciRJVSVC8qofyr9ykYAa"
+    },
+    "count9": {
+      "__uuid__": "beFhnWskJHwqBmswTpDUWD"
+    },
+    "btn_pi": {
+      "__uuid__": "f8EA60/5pCJJVxuO6JQJL1"
+    },
+    "count2": {
+      "__uuid__": "61lqvBkXtLKpJr25SV7oUM"
+    },
+    "zjtag": {
+      "__uuid__": "08GYfXYOJAsLY07dQPewPT"
+    },
+    "txt_zhau": {
+      "__uuid__": "0bEyCm/PlF/aBDI7DA9+jm"
+    },
+    "count5": {
+      "__uuid__": "2ffWo70aZD7YUGSgj6Mx87"
+    },
+    "btn_shou": {
+      "__uuid__": "c7hLJGAL1CtZ2Js/fqktj6"
+    },
+    "btn_kai": {
+      "__uuid__": "44BuP6lYRGtJjkGn0c4vwP"
+    },
+    "setting1": {
+      "__uuid__": "88gpxj0dBFZrLQ3a4PH9XI"
+    },
+    "sz1": {
+      "__uuid__": "15d+bsKrdGNIer+vu5GfeT"
+    },
+    "sz3": {
+      "__uuid__": "68OTa4e1xHxYWSGglCOnml"
+    },
+    "sz2": {
+      "__uuid__": "84wqLG7lRLqr/x/Bub7Cn4"
+    },
+    "sz4": {
+      "__uuid__": "9cUvgK/W5Fy6tuVZlhw2JV"
+    },
+    "sz6": {
+      "__uuid__": "ccNgskLXVPHLR8m7YyUxFl"
+    },
+    "btn_gb": {
+      "__uuid__": "d7NSAhyv5GDqreSU9m5BFL"
+    }
+  }
+}

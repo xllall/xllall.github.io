@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "board_bg",
+    "texture": "e8wzkGKFVPS6apvqk918Rt",
+    "rect": [
+      1,
+      1,
+      1700,
+      874
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1702,
+      876
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

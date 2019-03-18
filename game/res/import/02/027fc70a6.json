@@ -1,0 +1,12 @@
+[
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "warn",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "timer",
+    "_native": ".mp3"
+  }
+]
